@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhijit Abhang</h1>
 <h3 align="center">Lazy Enough to Automate Everything 🤖</h3>
+<p align="center">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/abhijitabhang/" alt="QR Code" width="150" height="150" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitabhang&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitabhang" /> </p>
 
